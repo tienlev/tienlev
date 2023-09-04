@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I doing something...
+🔭 I’m currently making video games and arts in the right mood :D
+🌱 I’m currently learning make game engine
+⚡ My personal website tienlev.com
+
 
 <!--
 **tienlev/tienlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
